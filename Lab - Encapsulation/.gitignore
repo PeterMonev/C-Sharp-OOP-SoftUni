@@ -1,0 +1,47 @@
+################################
+# VISUAL STUDIO / .NET CORE / C#
+################################
+
+*.exe
+*.dll
+*.so
+*.obj
+*.pdb
+*.suo
+
+[Bb]in/
+[Oo]bj/
+
+*.nupkg
+*.snupkg
+packages/
+
+TestResults/
+
+appsettings.Development.json 
+
+.env
+.env.local
+.env.*.local
+!*.example /
+
+################################
+# VISUAL STUDIO IDE / VS CODE
+################################
+
+.vs/
+
+# Visual Studio Solution User Options
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code Cache
+.vscode/
+
+################################
+# MacOS / Windows Cache
+################################
+.DS_Store
+Thumbs.db
