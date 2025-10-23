@@ -1,0 +1,15 @@
+D:\Coding Programm\Repos\C# Advance & C# OPP\C# OOP\Inheritance - Lab\01. Single Inheritance\bin\Debug\net8.0\01. Single Inheritance.exe
+D:\Coding Programm\Repos\C# Advance & C# OPP\C# OOP\Inheritance - Lab\01. Single Inheritance\bin\Debug\net8.0\01. Single Inheritance.deps.json
+D:\Coding Programm\Repos\C# Advance & C# OPP\C# OOP\Inheritance - Lab\01. Single Inheritance\bin\Debug\net8.0\01. Single Inheritance.runtimeconfig.json
+D:\Coding Programm\Repos\C# Advance & C# OPP\C# OOP\Inheritance - Lab\01. Single Inheritance\bin\Debug\net8.0\01. Single Inheritance.dll
+D:\Coding Programm\Repos\C# Advance & C# OPP\C# OOP\Inheritance - Lab\01. Single Inheritance\bin\Debug\net8.0\01. Single Inheritance.pdb
+D:\Coding Programm\Repos\C# Advance & C# OPP\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\net8.0\01. Single Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Programm\Repos\C# Advance & C# OPP\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\net8.0\01. Single Inheritance.AssemblyInfoInputs.cache
+D:\Coding Programm\Repos\C# Advance & C# OPP\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\net8.0\01. Single Inheritance.AssemblyInfo.cs
+D:\Coding Programm\Repos\C# Advance & C# OPP\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\net8.0\01. Single Inheritance.csproj.CoreCompileInputs.cache
+D:\Coding Programm\Repos\C# Advance & C# OPP\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\net8.0\01. Single Inheritance.dll
+D:\Coding Programm\Repos\C# Advance & C# OPP\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\net8.0\refint\01. Single Inheritance.dll
+D:\Coding Programm\Repos\C# Advance & C# OPP\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\net8.0\01. Single Inheritance.pdb
+D:\Coding Programm\Repos\C# Advance & C# OPP\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\net8.0\01. Single Inheritance.genruntimeconfig.cache
+D:\Coding Programm\Repos\C# Advance & C# OPP\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\net8.0\ref\01. Single Inheritance.dll
+D:\Coding Programm\Repos\C# Advance & C# OPP\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\net8.0\01. Single Inheritance.sourcelink.json
