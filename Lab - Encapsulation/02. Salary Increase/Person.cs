@@ -44,20 +44,17 @@ namespace PersonsInfo
 
         public void IncreaseSalary(decimal percentage)
         {
-            if (this.Age > 30)
+            if (this.Age < 30)
             {
-                this.Salary += this.Salary * percentage / 100;
+                percentage /= 2;
+            }
 
-            }
-            else
-            {
-                this.Salary += this.Salary * percentage / 200;
-            }
+            this.Salary _ = this.Salary * percentage / 100;
         }
 
         public override string ToString()
         {
-            return $"{this.FirstName} {this.LastName} is {this.age} years old.";
+            return $"{this.FirstName} {this.LastName} receives {this.Salary:F2} leva.";
         }
     }
 }
