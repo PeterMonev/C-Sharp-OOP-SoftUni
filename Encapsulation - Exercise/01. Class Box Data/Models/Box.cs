@@ -1,5 +1,5 @@
 ﻿
-namespace ClassBoxDataModels
+namespace ClassBoxDataModels.Models
 {
     public class Box
     {
