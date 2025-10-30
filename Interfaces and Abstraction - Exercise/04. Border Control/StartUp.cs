@@ -10,8 +10,8 @@ namespace BorderControl {
         {
             string command;
             List<IIdentifiable> society = new List<IIdentifiable>();
-
-            while ((command = Console.ReadLine()) != "END")
+  
+            while ((command = Console.ReadLine()) != "End")
             {
                 string[] input = command.Split(" ", StringSplitOptions.RemoveEmptyEntries).ToArray();
                 IIdentifiable identifiable;
