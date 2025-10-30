@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36511.14 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Multiple Implementation", "02. Multiple Implementation\02. Multiple Implementation.csproj", "{FA568C98-7112-4AEF-AF02-E47AB4DED50E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Telephony", "03. Telephony\03. Telephony.csproj", "{AA70F7B1-D6FC-4448-A9AB-F9E3AA727405}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FA568C98-7112-4AEF-AF02-E47AB4DED50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FA568C98-7112-4AEF-AF02-E47AB4DED50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FA568C98-7112-4AEF-AF02-E47AB4DED50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FA568C98-7112-4AEF-AF02-E47AB4DED50E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA70F7B1-D6FC-4448-A9AB-F9E3AA727405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA70F7B1-D6FC-4448-A9AB-F9E3AA727405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA70F7B1-D6FC-4448-A9AB-F9E3AA727405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA70F7B1-D6FC-4448-A9AB-F9E3AA727405}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8BD9122C-16BA-4EDC-B3F9-5AA546F8B404}
+		SolutionGuid = {C2EA5406-F310-49D7-946E-E34D3C1C3E8C}
 	EndGlobalSection
 EndGlobal
