@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36511.14 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Food Shortage", "06. Food Shortage\06. Food Shortage.csproj", "{48CDB77B-C268-42D7-B18B-9BE1FE69B940}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Explicit Interfaces", "09. Explicit Interfaces\09. Explicit Interfaces.csproj", "{53C90360-63F7-4733-B238-645DFD741654}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{48CDB77B-C268-42D7-B18B-9BE1FE69B940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{48CDB77B-C268-42D7-B18B-9BE1FE69B940}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{48CDB77B-C268-42D7-B18B-9BE1FE69B940}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{48CDB77B-C268-42D7-B18B-9BE1FE69B940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C90360-63F7-4733-B238-645DFD741654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C90360-63F7-4733-B238-645DFD741654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C90360-63F7-4733-B238-645DFD741654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C90360-63F7-4733-B238-645DFD741654}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F18E8E8A-8C91-4C89-9B85-8BEAADF4ECE7}
+		SolutionGuid = {287E8A77-CBE9-4300-9805-AC921C3D5889}
 	EndGlobalSection
 EndGlobal
