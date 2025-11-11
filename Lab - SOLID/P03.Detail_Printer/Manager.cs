@@ -10,5 +10,10 @@ namespace P03.DetailPrinter
         }
 
         public IReadOnlyCollection<string> Documents { get; set; }
+
+        public override string GetDetails()
+        {
+            return string.Join(Environment.NewLine, base.GetDetails(), this.Documents);
+        }
     }
 }

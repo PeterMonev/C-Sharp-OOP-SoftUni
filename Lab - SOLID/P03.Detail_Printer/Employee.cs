@@ -8,5 +8,10 @@
         }
 
         public string Name { get; set; }
+
+        public virtual string GetDetails()
+        {
+            return this.Name;
+        }
     }
 }
