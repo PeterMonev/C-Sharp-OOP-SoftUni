@@ -1,4 +1,5 @@
 ﻿using Logger.Abstraction;
+using Logger.Enums;
 using Logger.Models;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,9 @@ namespace Logger
         {
         }
 
+        public ConsoleAppender(IFormatter<LogMessage> formatter, ReportLevel reportThreshold) : base(formatter, reportThreshold)
+        {
+        }
         protected override void Append(string logMessage)
         {
            Console.Write(logMessage);

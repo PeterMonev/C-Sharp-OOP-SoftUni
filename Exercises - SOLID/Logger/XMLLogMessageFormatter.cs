@@ -19,7 +19,7 @@ namespace Logger
             sb.AppendLine($"   <message>{value.Message}</message>");
             sb.AppendLine("</log>");
 
-            return sb.ToString();
+            return sb.ToString(); 
 
         }
     }

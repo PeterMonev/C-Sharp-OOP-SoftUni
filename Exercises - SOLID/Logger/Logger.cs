@@ -19,12 +19,26 @@ namespace Logger
         }
         public void Log(string time, ReportLevel reportLevel, string message)
         {
-            foreach(IAppender appender in this._appenders)
+            foreach (IAppender appender in this._appenders)
             {
                 LogMessage logMessage = new LogMessage(time, reportLevel, message);
                 appender.Append(logMessage);
             }
         }
-        
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append("Logger info");
+
+            foreach (IAppender appender in this._appenders)
+            {
+                sb.AppendLine();
+                sb.Append(appender.ToString());
+            }
+
+            return sb.ToString();
+        }
+
     }
 }
