@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36717.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectGettersAndSetters", "CollectGettersAndSetters\CollectGettersAndSetters.csproj", "{471A56A2-7015-4D2D-9AB9-EDFD740E6E45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeTracker", "CodeTracker\CodeTracker.csproj", "{4572430F-E924-42E4-AE35-699AD9F85C80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{471A56A2-7015-4D2D-9AB9-EDFD740E6E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{471A56A2-7015-4D2D-9AB9-EDFD740E6E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{471A56A2-7015-4D2D-9AB9-EDFD740E6E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{471A56A2-7015-4D2D-9AB9-EDFD740E6E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4572430F-E924-42E4-AE35-699AD9F85C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4572430F-E924-42E4-AE35-699AD9F85C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4572430F-E924-42E4-AE35-699AD9F85C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4572430F-E924-42E4-AE35-699AD9F85C80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8A996B88-E8B7-4663-9E04-596ED46B4C0B}
+		SolutionGuid = {1F30F131-A100-456E-9339-A01F038E09DA}
 	EndGlobalSection
 EndGlobal
