@@ -115,6 +115,7 @@ namespace Database.Tests
         public void FetchIsNotWorking()
         {
             int[] expected = new int[] { 1, 2, };
+
         }
     }
 }
