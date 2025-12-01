@@ -10,7 +10,7 @@ namespace FootballManager.Models
     {
         private const double DefaultRanking = 60;
         private const double modifierRanking = 1.5;
-        public ProfessionalManager(string name, double ranking) : base(name, DefaultRanking)
+        public ProfessionalManager(string name) : base(name, DefaultRanking)
         {
         }
 

@@ -52,7 +52,7 @@ namespace FootballManager.Models.Contracts
 
                 if (this.ChampionshipPoints == 0)
                 {
-                    return  (int)Math.Floor(this.teamManager.Ranking);
+                    return  (int)Math.Floor(this.TeamManager.Ranking);
                 }
 
                 return (int)Math.Floor(this.ChampionshipPoints * this.TeamManager.Ranking);

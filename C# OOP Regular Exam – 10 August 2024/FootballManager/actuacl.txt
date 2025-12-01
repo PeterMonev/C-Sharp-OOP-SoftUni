@@ -1,0 +1,55 @@
+JoinChampionship ManchesterUnited
+JoinChampionship ManchesterCity
+JoinChampionship Liverpool
+JoinChampionship Tottenham
+JoinChampionship Arsenal
+JoinChampionship Arsenal
+JoinChampionship AstonVilla
+JoinChampionship Brentford
+JoinChampionship Brighton
+JoinChampionship Chelsea
+JoinChampionship Everton
+JoinChampionship LeichesterCity
+SignManager Liverpool ProfessionalManager JurgenKlopp
+SignManager ManchesterUnited ProfessionalManager ErikTenHag
+SignManager ManchesterCity ProfessionalManager JosepGuardiola
+SignManager Tottenham LicensedManager MassimilianoAllegri
+SignManager Arsenal SeniorManager ArsenVenger
+SignManager AstonVilla AmateurManager ErikTenHag
+SignManager Brentford SeniorManager ThomasFrank
+SignManager Brighton AmateurManager FabianHurzeler
+SignManager Chelsea ProfessionalManager EnzoMaresna
+SignManager Everton SeniorManager SeanDyche
+SignManager LeichesterCity ProfessionalManager SteveCooper
+SignManager QueensParkRangers AmateurManager JamieVardy
+SignManager Arsenal ProfessionalManager JoseMourinho
+MatchBetween Arsenal AstonVilla
+MatchBetween Chelsea Brighton
+MatchBetween Everton ManchesterUnited
+MatchBetween ManchesterCity Brentford
+MatchBetween Liverpool Arsenal
+MatchBetween QueensParkRangers LeichesterCity
+MatchBetween LeichesterCity Tottenham
+MatchBetween ManchesterUnited Everton
+MatchBetween ManchesterCity ManchesterUnited
+MatchBetween Brighton Brentford
+MatchBetween AstonVilla Chelsea
+MatchBetween Arsenal Tottenham
+SignManager Tottenham ProfessionalManager JoseMourinho
+SignManager AstonVilla ProfessionalManager XabiAlonso
+MatchBetween Liverpool Chelsea
+MatchBetween ManchesterUnited Liverpool
+MatchBetween QueensParkRangers Liverpool
+MatchBetween Tottenham Chelsea
+MatchBetween Liverpool Everton
+MatchBetween ManchesterCity Tottenham
+MatchBetween Tottenham ManchesterCity
+MatchBetween AstonVilla Brentford
+MatchBetween Tottenham AstonVilla
+MatchBetween Brighton Brentford
+MatchBetween Everton Brighton
+ChampionshipRankings
+PromoteTeam LeichesterCity Redding ProfessionalManager GiovanniTrapattoni
+PromoteTeam Everton Redding ProfessionalManager GiovanniTrapattoni
+ChampionshipRankings
+Exit
