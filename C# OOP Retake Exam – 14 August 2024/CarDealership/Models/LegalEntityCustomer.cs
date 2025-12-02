@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace CarDealership.Models
 {
-    internal class LegalEntityCustomer
+    public class LegalEntityCustomer : Customer
     {
+        public LegalEntityCustomer(string name) : base(name)
+        {
+        }
     }
 }
