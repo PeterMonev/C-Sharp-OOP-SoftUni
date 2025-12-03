@@ -1,0 +1,36 @@
+JoinTeam TeamLead YokoYong Master
+JoinTeam ContentMember DaniDavis JavaScript
+JoinTeam ContentMember DaniDavis Java
+JoinTeam ContentMember PeterSully Java
+JoinTeam ContentMember ValGendor Python
+CreateResource Presentation Inheritance CSharp
+JoinTeam ContentMember KrissThompson CSharp
+JoinTeam TrainingMember DenisPeters CSharp
+JoinTeam ContentMember ValGendor Java
+CreateResource Lab LabDocument CSharp
+CreateResource Exam JavaScriptOOP-Retake JavaScript
+CreateResource Workshop TicTacToe Python
+CreateResource Exam JavaScriptOOP-Regular JavaScript
+CreateResource Exam JavaScriptOOP-Regular JavaScript
+CreateResource Exam JavaOOP-Regular Java
+CreateResource VideoContent WelcomeVideo Java
+CreateResource Exam JavaOOP-Retake Java
+CreateResource WorkShop Regex-Exercise Python
+CreateResource Presentation Inheritance CSharp
+CreateResource Exam C#OOP-Regular CSharp
+LogTesting DenisPeters
+LogTesting ValGendor
+LogTesting ValGendor
+LogTesting ValGendor
+LogTesting DannyDavis
+LogTesting PeterSully
+LogTesting PeterSully
+LogTesting KrissThompson
+ApproveResource JavaOOP-Regular true
+ApproveResource JavaOOP-Retake false
+ApproveResource Inheritance true
+ApproveResource C#OOP-Regular true
+ApproveResource TicTacToe true
+ApproveResource JavaScriptOOP-Retake true
+DepartmentReport
+Exit
