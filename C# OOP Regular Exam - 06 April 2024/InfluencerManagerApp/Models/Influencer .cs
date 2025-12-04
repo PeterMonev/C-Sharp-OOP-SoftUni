@@ -77,9 +77,7 @@ namespace InfluencerManagerApp.Models
 
         public void EndParticipation(string brand)
         {
-            bool endParticipation = this.participations.Any(b => b == brand);
-
-            if (endParticipation == false)
+            if (this.participations.Contains(brand))
             {
                 this.participations.Remove(brand);
             }
@@ -87,7 +85,10 @@ namespace InfluencerManagerApp.Models
 
         public void EnrollCampaign(string brand)
         {
-            this.participations.Add(brand);
+            if (!this.participations.Contains(brand)) 
+            {
+                this.participations.Add(brand);
+            }
         }
 
         public override string ToString()

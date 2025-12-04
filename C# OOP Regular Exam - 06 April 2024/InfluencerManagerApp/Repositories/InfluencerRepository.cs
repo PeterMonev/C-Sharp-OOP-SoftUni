@@ -21,7 +21,6 @@ namespace InfluencerManagerApp.Repositories
 
         public void AddModel(IInfluencer model)
         {
-            if (model != null && !influencers.Contains(model))
                 influencers.Add(model);
         }
 
