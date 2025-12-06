@@ -1,0 +1,68 @@
+AddHero Warrior Thorne Bloodfang-Sigil
+AddHero Sorcerer Mira Starshroud-Glint
+AddHero Spellblade Kael Moonveil-Runespark
+AddHero Ranger Elira Thornchant-Rune
+AddHero Sorcerer Alina Bloodfang-Sigil
+AddHero Warrior Alaric Ironcrest-Crownmark
+AddHero Sorcerer Isolde Emberthrone-Aetherseal
+AddHero Spellblade Dorian Kingsblade-Veilstorm
+AddHero Sorcerer Seraphina Crownlight-Fatespire
+AddHero Warrior Alaric Ironcrest-Crownmark
+AddHero Warrior Cedric Stormbane-Ironwolf
+AddHero Warrior Roderic Dawnhelm-Furybrand
+AddHero Warrior Galen Ashguard-Warcrest
+AddHero Sorcerer Elowen Glimmerhex-Stargaze
+AddHero Sorcerer Thalor Moonshroud-Spellweft
+AddHero Spellblade Aelric Shadowflame-Nightsurge
+AddHero Spellblade Evelyne Frostthorn-Runeveil
+AddHero Spellblade Lucien Starforged-Soulbind
+CreateGuild WarriorGuild
+CreateGuild SorcererGuild
+RecruitHero Voidwhisper-Sigil SorcererGuild
+RecruitHero Frostthorn-Runeveil ShadowGuild
+CreateGuild ShadowGuild
+CreateGuild WarriorGuild
+RecruitHero Bloodfang-Sigil SorcererGuild
+RecruitHero Glimmerhex-Stargaze WarriorGuild
+RecruitHero Frostthorn-Runeveil ShadowGuild
+RecruitHero Starshroud-Glint SorcererGuild
+RecruitHero Moonveil-Runespark SorcererGuild
+RecruitHero Ironcrest-Crownmark ShadowGuild
+RecruitHero Emberthrone-Aetherseal ShadowGuild
+RecruitHero Kingsblade-Veilstorm SorcererGuild
+RecruitHero Crownlight-Fatespire ShadowGuild
+RecruitHero Stormbane-Ironwolf WarriorGuild
+RecruitHero Dawnhelm-Furybrand ShadowGuild
+RecruitHero Ashguard-Warcrest WarriorGuild
+RecruitHero Glimmerhex-Stargaze ShadowGuild
+RecruitHero Moonshroud-Spellweft SorcererGuild
+RecruitHero Bloodfang-Sigil WarriorGuild
+RecruitHero Shadowflame-Nightsurge WarriorGuild
+RecruitHero Frostthorn-Runeveil WarriorGuild
+RecruitHero Starforged-Soulbind SorcererGuild
+RecruitHero Emberthrone-Aetherseal ShadowGuild
+RecruitHero Emberthrone-Aetherseal SorcererGuild
+AddHero Warrior Brynden Flameheart-Oathsteel
+AddHero Warrior Nyra Dusksong-Mindflare
+AddHero Warrior Caelum Ironveil-Stormbind
+AddHero Warrior Thorne Wolfwrath-Grimblade
+AddHero Warrior Selene Nightflare-Starweave
+RecruitHero Flameheart-Oathsteel WarriorGuild
+RecruitHero Dusksong-Mindflare WarriorGuild
+RecruitHero Ironveil-Stormbind WarriorGuild
+RecruitHero Wolfwrath-Grimblade WarriorGuild
+RecruitHero Nightflare-Starweave WarriorGuild
+AddHero Warrior Varek Stoneborn-Embermark
+RecruitHero Stoneborn-Embermark WarriorGuild
+RecruitHero Stoneborn-Embermark ShadowGuild
+TrainingDay WarriorGuild
+TrainingDay ShadowGuild
+StartWar WarriorGuild ShadowGuild
+StartWar SorcererGuild ShadowGuild
+TrainingDay WarriorGuild
+TrainingDay ShadowGuild
+TrainingDay SorcererGuild
+TrainingDay RogueGuild
+StartWar SorcererGuild RogueGuild
+ValorState
+Exit
