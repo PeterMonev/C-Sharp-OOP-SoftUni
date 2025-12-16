@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace AbstractClass.Model
 {
-    public abstract class SandwichProtopy
+    public abstract class SandwichPrototype
     {
-        public abstract SandwichProtopy Clone();
+        public abstract SandwichPrototype Clone();
     }
 }
